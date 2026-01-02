@@ -14,6 +14,18 @@
   
   <p><strong>Agent-based trading interface for Solana, Polymarket, and Kalshi.</strong></p>
   <p>Configure your trading agents with AI providers (OpenAI, Anthropic) and execute trades across multiple platforms through a unified API and web interface.</p>
+  
+  <br/>
+  
+  <p>
+    <strong>Donation Wallet:</strong><br/>
+    <code>HG1JamaLifbsipzYohdquqo4V4MF9P1kyRfZWUHmpTLm</code>
+  </p>
+  
+  <p>
+    <strong>CA:</strong><br/>
+    <code>8aMFwmxnwZ8vzvUkEwPkffEFWoWNYTG2SjA9Eum5pump</code>
+  </p>
 </div>
 
 ## Architecture
