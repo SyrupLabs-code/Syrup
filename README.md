@@ -1,6 +1,20 @@
 # Syrup
 
-Agent-based trading interface for Solana, Polymarket, and Kalshi. Configure your trading agents with AI providers (OpenAI, Anthropic) and execute trades across multiple platforms through a unified API and web interface.
+<div align="center">
+  <img src="banner.png" alt="Syrup Banner" width="800">
+  
+  <br/>
+  
+  <a href="https://x.com/syrupAgent" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40syrupAgent-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
+  </a>
+  
+  <br/>
+  <br/>
+  
+  <p><strong>Agent-based trading interface for Solana, Polymarket, and Kalshi.</strong></p>
+  <p>Configure your trading agents with AI providers (OpenAI, Anthropic) and execute trades across multiple platforms through a unified API and web interface.</p>
+</div>
 
 ## Architecture
 
@@ -326,4 +340,5 @@ Contributions welcome. Please ensure:
 - Tests pass
 - Documentation is updated
 - No sensitive data in commits
+
 
